@@ -16,7 +16,7 @@ function GetStarted() {
           title="Loan Application"
           description="Create your account to apply with
           First Class Home Mortgage."
-          url="https://www.blink.mortgage/app/signup/p/FirstClassHomeMortgage/lindaskehan"
+          url="https://www.blink.mortgage/app/signup/p/FirstClassHomeMortgage/philwillson"
           iconName="applicationIcon"
           btnText="Start Application"
         />
@@ -40,7 +40,7 @@ function GetStarted() {
         <GetStartedItem
           title="Upload Documents"
           description="Safely and securely send documents through DocumentGuardian."
-          url="https://documentguardian.com/filedrop/linda@firstclasshomemortgage.com"
+          url="https://documentguardian.com/filedrop/phil@loanforce.net"
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />
@@ -48,7 +48,7 @@ function GetStarted() {
         <GetStartedItem
           title="Leave a Review"
           description="Thank you for choosing First Class Home Mortgage. It’s my priority to continue providing quality service to my customers. Tell me about your experience."
-          url="https://g.page/r/Ca6GOecLexOkEAI/review"
+          url="https://g.page/r/CStPPIWpW1rHEAg/review"
           iconName="reviewIcon"
           btnText="Write Review"
         />
