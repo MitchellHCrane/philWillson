@@ -18,14 +18,12 @@ function Profile() {
         <div className="columnPic">
           <img
             className="troyProfilePic"
-            src="../images/"
-            alt="Phil Willson Senior Mortgage Loan Officer
-
-            "
+            src="../images/PhilsHeadshot.jpg"
+            alt="Phil Willson Senior Mortgage Loan Officer"
           />
         </div>
         <div>
-          <h1 className="profileName">J Phillip Willson</h1>
+          <h1 className="profileName">Phillip Willson</h1>
           <h2 className="NMLS">Loan Officer (NMLS #263970)</h2>
           <p className="profileP">
             Hello! I’m Phil, I look forward to helping you along your home
